@@ -6,7 +6,6 @@ import Produtores from './produtores';
 
 export default function Home(){
   return <>
-        {/* <Topo /> */}
         <Produtores topo={Topo} />
   </>
 }
